@@ -1,0 +1,68 @@
+# Flutter/Dart
+.dart_tool/
+.build/
+.packages
+.pub-cache/
+.pub/
+pubspec.lock
+
+# Generated files
+generated_plugin_registrant.dart
+
+# Build outputs
+build/
+
+# iOS
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+!default.mode1v3
+!default.mode2v3
+!default.perspectivev3
+xcuserdata/
+DerivedData/
+*.xcworkspace/
+Pods/
+Flutter/Flutter.framework
+Flutter/Flutter.podspec
+Flutter/App.framework
+Flutter/engine/
+ServiceDefinitions.json
+
+# Android
+.gradle/
+local.properties
+**/android/app/profile
+**/android/app/release
+captures/
+*.iml
+
+# VS Code
+.vscode/
+.history/
+
+# IntelliJ / Android Studio
+.idea/
+*.iml
+
+# Web
+lib/generated_plugin_registrant.dart
+
+# Linux
+linux/flutter/ephemeral/
+
+# macOS
+macos/Flutter/ephemeral/
+
+# Windows
+windows/flutter/ephemeral/
+
+# Other OS files
+.DS_Store
+Thumbs.db
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+fastlane/test_output

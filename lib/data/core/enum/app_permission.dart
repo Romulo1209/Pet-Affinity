@@ -1,0 +1,15 @@
+enum AppPermission {
+  camera,
+  photos,
+  location,
+  locationAlways,
+  locationWhenInUse,
+  notifications,
+  storage,
+  bluetooth,
+  internet,
+  mediaImages,
+  mediaVideo,
+  bluetoothScan,
+  bluetoothConnect,
+}
